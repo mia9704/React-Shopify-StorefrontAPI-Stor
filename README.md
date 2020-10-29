@@ -1,7 +1,7 @@
 # Headless ReactJS Shopify store using the Shopify StorefrontAPI
 
 Create a fully customizable ReactJS Shopify store with ReactJS and Shopify StorefrontAPI.
-Hosted on: https://agitated-poitras-a8cd88.netlify.app
+Hosted on: https://shopify-storefrontapi-store.netlify.app
 
 ## Getting Started
 
