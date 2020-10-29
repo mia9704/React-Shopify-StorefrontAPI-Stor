@@ -1,0 +1,32 @@
+.cart-page {
+  margin: 20px 100px;
+  .product-image {
+    img {
+      width: 200px;
+    }
+  }
+  .summary {
+    position: absolute;
+    right: 100px;
+    margin-bottom: 50px;
+    .total {
+      display: flex;
+      flex-direction: row;
+      .summary-total {
+        margin-left: 10px;
+      }
+    }
+    .centered {
+      margin: 20px 0;
+      width: 300px;
+      display: flex;
+      flex-direction: column;
+      .continue-shopping-link {
+        margin-top: 10px;
+      }
+    }
+  }
+  .empty-text {
+    text-align: center;
+  }
+}

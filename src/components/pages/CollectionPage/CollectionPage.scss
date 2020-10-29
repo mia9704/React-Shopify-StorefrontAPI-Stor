@@ -1,0 +1,18 @@
+.collection-page {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    .title {
+        margin: 15px;
+    }
+    .grid-item {
+        display: flex;
+        flex-direction: column;
+        width: 800px;
+        img {
+            width: 100%;
+        }
+        margin: 15px;
+    }
+}

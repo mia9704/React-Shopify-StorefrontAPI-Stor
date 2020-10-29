@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+    a {
+        margin: 5px;
+    }
+    .cart-button {
+        position: absolute;
+        right: 15px;
+    }
+    .cart-quantity {
+        display: block;
+        position: absolute;
+        bottom: 5px;
+        right: 35px;
+        width: 16px;
+        height: 16px;
+        background-color: #e50000;
+        border-radius: 500px;
+        color: white;
+        font-size: 12px;
+    }
+}

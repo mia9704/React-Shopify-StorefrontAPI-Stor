@@ -1,0 +1,19 @@
+.home-page {
+    margin-top: 15px;
+    h2 {
+        text-align: center;
+    }
+    .collection-section {
+        display: flex;
+        flex-direction: row;
+        .grid-item {
+            display: flex;
+            flex-direction: column;
+            width: 800px;
+            img {
+                width: 100%;
+            }
+            margin: 15px;
+        }
+    }
+}
